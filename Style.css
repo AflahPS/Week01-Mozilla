@@ -17,7 +17,6 @@ header {
   height: 65px;
   position: fixed;
   top: 0;
-  overflow: hidden;
   background-color: white;
   width: 100%;
 }
